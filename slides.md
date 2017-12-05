@@ -50,7 +50,7 @@ class: middle, center, slide-card-list
 
 .card[![](./images/avatars-hosts/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-hosts/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars-hosts/kinga-wigurska-bak.png) Kinga Wigurska-Bąk]
+.card[![](./images/avatars-hosts/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
 .card[![](./images/avatars-hosts/natalia-kedziora.jpeg) Natalia Kędziora]
 .card[![](./images/avatars-hosts/miroslaw-stasiak.jpg) Mirosław Stasiak]
 
@@ -63,7 +63,7 @@ class: middle, center, slide-card-list
 .card[![](./images/avatars-trainers/jakub-skalecki.jpg) Jakub Skałecki]
 .card[![](./images/avatars-trainers/michal-mietlinski.jpg) Michał Mietliński]
 .card[![](./images/avatars-trainers/jan-horubala.jpg) Jan Horubała]
-.card[![](./images/avatars-trainers/daniel-siwek.jpeg) Daniel Siwek]
+.card[![](./images/avatars-trainers/daniel-siwek.jpg) Daniel Siwek]
 
 ---
 
