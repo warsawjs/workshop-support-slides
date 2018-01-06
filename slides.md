@@ -60,7 +60,7 @@ class: middle, center, slide-card-list
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/avatars-trainers/agnieszka-rudnicka.jpeg) Agnieszka Rudnicka]
+.card[![](./images/avatars-trainers/agnieszka-rudnicka.jpg) Agnieszka Rudnicka]
 .card[![](./images/avatars-trainers/grzegorz-kapkowski.jpg) Grzegorz Kapkowski]
 .card[![](./images/avatars-trainers/natalia-kedziora.jpeg) Natalia Kedziora]
 .card[![](./images/avatars-trainers/robert-kawecki.jpeg) Robert Kawecki]
