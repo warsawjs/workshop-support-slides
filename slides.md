@@ -113,7 +113,7 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size60[
-## <mark>warsawjs-workshop-17</mark>
+## <mark>warsawjs-workshop-17-git</mark>
 ]
 
 ---
@@ -176,7 +176,7 @@ class: slide-1
 * Zakończenie kodowania **18:00** &#x26D4;
 * Ankieta: [bit.ly/warsawjs-workshop-17-ankieta][ankieta]
 
-Nazwa projektu: `warsawjs-workshop-17`
+Nazwa projektu: `warsawjs-workshop-17-git`
 ]
 
 
