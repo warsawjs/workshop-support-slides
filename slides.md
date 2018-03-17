@@ -92,7 +92,9 @@ A najważniejsza zasada to...
 
 class: middle, center
 
+.size70[
 # Żadne pytanie nie jest głupie!
+]
 
 ---
 
@@ -112,7 +114,7 @@ class: middle, center
 
 # 💎 Nazwa projektu 💎
 
-.size60[
+.size50[
 ## <mark>warsawjs-workshop-18-topics-manager</mark>
 ]
 
@@ -124,7 +126,7 @@ class: middle, center
 * Kodowanie kończymy o **18:00**
 * Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
 * **Chętni wychodzą na scenę ze swoim projektem**
-* 📦 Bonus na zakończenie!
+* &#x2728; Bonus na zakończenie! &#x2728; 
 ]
 
 ---
@@ -176,7 +178,7 @@ class: slide-1
 * Zakończenie kodowania **18:00** &#x26D4;
 * Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
 
-Nazwa projektu: `warsawjs-workshop-18-topics-manger`
+Nazwa projektu: `warsawjs-workshop-18-topics-manager`
 ]
 
 
@@ -192,7 +194,7 @@ https://piecioshka.github.io/countdown/#10:00
 
 class: middle, center
 
-# Koniec &#x23F0; o 18:00
+# Koniec &#x23F0; o <mark>18:00</mark>
 
 ## &#x2728; Dyplomy &#x2728;
 ## Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
