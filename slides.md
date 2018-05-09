@@ -1,7 +1,7 @@
 class: middle, center, slide-1
 
 .size130[
-# WarsawJS Workshop #19
+# WarsawJS Workshop #20
 ]
 
 ---
@@ -17,7 +17,7 @@ class: middle, center
 
 # Obiad
 
-## [bit.ly/warsawjs-workshop-19-lunch][lunch]
+## [bit.ly/warsawjs-workshop-20-lunch][lunch]
 
 ---
 
@@ -25,7 +25,7 @@ class: middle, center
 
 # Slack
 
-## #workshop-19
+## #workshop-20
 
 *Dostęp możliwy, kiedy dostaniesz zaproszenie.*
 <br/>
@@ -53,7 +53,6 @@ class: middle, center, slide-card-list
 .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
 .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpeg) Tomasz Budrewicz]
 .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
-.card[![](./images/avatars-volunteers/michal-szymczyk.jpg) Michał Szymczyk]
 
 ---
 
@@ -61,10 +60,10 @@ class: middle, center, slide-card-list, no-display-twitter-handler
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/avatars-trainers/piotr-kowalski.jpeg) Piotr Kowalski]
-.card[![](./images/avatars-trainers/piotr-zientara.jpg) Piotr Zientara]
-.card[![](./images/avatars-trainers/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars-trainers/piotr-leniec.jpeg) Piotr Leniec]
+.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Bartek Legięć]
+.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Kamil Gajowy]
+.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Kacper Pietrzak]
+.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Andriy Mykulyak]
 .card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Mateusz Sojda]
 
 ---
@@ -116,7 +115,7 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size50[
-## <mark>warsawjs-workshop-19-???</mark>
+## <mark>warsawjs-workshop-20-???</mark>
 ]
 
 To zależy...
@@ -127,7 +126,7 @@ To zależy...
 
 .size40[
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-19-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-20-ankieta][ankieta]
 * **Chętni wychodzą na scenę ze swoim projektem**
 * &#x2728; Bonus na zakończenie! &#x2728; 
 ]
@@ -173,13 +172,13 @@ class: middle, center
 class: slide-1
 
 .size70[
-# WarsawJS Workshop #19
+# WarsawJS Workshop #20
 ]
 
 .size40[
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
 * Zakończenie kodowania **18:00** &#x26D4;
-* Ankieta: [bit.ly/warsawjs-workshop-18-ankieta][ankieta]
+* Ankieta: [bit.ly/warsawjs-workshop-20-ankieta][ankieta]
 ]
 
 
@@ -198,7 +197,7 @@ class: middle, center
 # Koniec &#x23F0; o <mark>18:00</mark>
 
 ## &#x2728; Dyplomy &#x2728;
-## Ankieta: [bit.ly/warsawjs-workshop-19-ankieta][ankieta]
+## Ankieta: [bit.ly/warsawjs-workshop-20-ankieta][ankieta]
 
 ---
 
