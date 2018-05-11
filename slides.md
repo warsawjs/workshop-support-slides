@@ -60,10 +60,10 @@ class: middle, center, slide-card-list, no-display-twitter-handler
 
 ### &#x1F4DA; Trenerzy &#x1F4DA;
 
-.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Bartek Legięć]
-.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Kamil Gajowy]
-.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Kacper Pietrzak]
-.card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Andriy Mykulyak]
+.card[![](./images/avatars-trainers/andriy-mykulyak.jpg) Andriy Mykulyak]
+.card[![](./images/avatars-trainers/bartek-legiec.png) Bartek Legięć]
+.card[![](./images/avatars-trainers/kacper-pietrzak.jpg) Kacper Pietrzak]
+.card[![](./images/avatars-trainers/kamil-gajowy.jpeg) Kamil Gajowy]
 .card[![](./images/avatars-trainers/mateusz-sojda.jpeg) Mateusz Sojda]
 
 ---
@@ -115,17 +115,16 @@ class: middle, center
 # 💎 Nazwa projektu 💎
 
 .size50[
-## <mark>warsawjs-workshop-20-???</mark>
+## <mark>warsawjs-workshop-20-flights-search</mark>
 ]
 
-To zależy...
 
 ---
 
 # Zakończenie
 
 .size40[
-* Kodowanie kończymy o **18:00**
+* Kodowanie kończymy o **17:00**
 * Ankieta: [bit.ly/warsawjs-workshop-20-ankieta][ankieta]
 * **Chętni wychodzą na scenę ze swoim projektem**
 * &#x2728; Bonus na zakończenie! &#x2728; 
@@ -177,7 +176,7 @@ class: slide-1
 
 .size40[
 * Zrób zdjęcie, opublikuj je z hashtagiem `#warsawjs` i wygraj konkurs! &#x1F455;
-* Zakończenie kodowania **18:00** &#x26D4;
+* Zakończenie kodowania **17:00** &#x26D4;
 * Ankieta: [bit.ly/warsawjs-workshop-20-ankieta][ankieta]
 ]
 
@@ -194,7 +193,7 @@ https://piecioshka.github.io/countdown/#10:00
 
 class: middle, center
 
-# Koniec &#x23F0; o <mark>18:00</mark>
+# Koniec &#x23F0; o <mark>17:00</mark>
 
 ## &#x2728; Dyplomy &#x2728;
 ## Ankieta: [bit.ly/warsawjs-workshop-20-ankieta][ankieta]
@@ -243,8 +242,8 @@ class: center, middle
 ]
 
 
-[ankieta]: http://bit.ly/warsawjs-workshop-19-ankieta
-[lunch]: http://bit.ly/warsawjs-workshop-19-lunch
+[ankieta]: http://bit.ly/warsawjs-workshop-20-ankieta
+[lunch]: http://bit.ly/warsawjs-workshop-20-lunch
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
