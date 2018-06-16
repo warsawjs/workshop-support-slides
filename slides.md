@@ -69,7 +69,7 @@ class: middle, center, slide-card-list, no-display-twitter-handler
 
 ---
 
-class: middle, center, image-middle
+class: middle, center, slides-middle-images
 
 ![](./images/sponsors/softwarely-logo-500x381.png)
 ![](./images/sponsors/software-plant-logo-400x200.jpg)
