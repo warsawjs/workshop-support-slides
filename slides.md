@@ -1,5 +1,3 @@
-<!-- Fullscreen background: 1210 x 681 //-->
-
 class: middle, center, slide-front-page
 
 .size130[
@@ -333,3 +331,5 @@ class: center, middle, no-logo
 [twitter-hashtag]: https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default
 [instagram-hashtag]: https://www.instagram.com/explore/tags/warsawjs/
 [facebook-hashtag]: https://www.facebook.com/hashtag/warsawjs
+
+<!-- Fullscreen background: 1210 x 681 -->
