@@ -1,3 +1,5 @@
+<!-- Fullscreen background: 1210 x 681 //-->
+
 class: middle, center, slide-front-page
 
 .size130[
@@ -108,7 +110,11 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 class: middle, center, slide-middle-images, no-logo
 
+.size50[
+
 # Sponsorzy
+
+]
 
 <!-- ![](./images/sponsors/logo-cosmose-500x300.png) -->
 <!-- ![](./images/sponsors/logo-softwarely-500x300.png) -->
@@ -116,16 +122,19 @@ class: middle, center, slide-middle-images, no-logo
 
 ---
 
-### Zasady współpracy 📋
+.size50[
+
+# Zasady współpracy 📋
+
+]
 
 * Podział na grupy pod kątem zaawansowania (efekt selekcji)
 
-**Jeśli trafiłeś do grupy z nieodpowiednim dla Ciebie poziomem, daj znać!**
+_Jeśli trafiłeś do grupy z nieodpowiednim dla Ciebie poziomem, daj znać!_
 
 * Trener decyduje o prędkości realizacji projektu
 * Zajęcia grupowe — pomagamy sobie nawzajem
 * Odnosimy się do siebie po koleżeńsku
-* Każdy z uczestników wyraża zgodę na publikację wizerunku w social mediach
 
 A najważniejsza zasada to...
 
@@ -293,11 +302,17 @@ class: middle
 
 ---
 
-class: middle, center, no-logo
+class: top, center, no-logo, slide-invert-colors
+background-image: url('images/community.jpg')
 
-# Dzięki za przybycie! &#x1F389;
+# <mark>Wspólne zdjęcie! 📸</mark>
 
-![](images/logo/logo-transparent-200x200.png)
+---
+
+class: middle, no-logo, slide-card-list
+
+.card.size70[Dziękujemy<br/>za&nbsp;obecność!]
+.card[![](images/logo/logo-transparent-200x200.png)]
 
 ---
 
