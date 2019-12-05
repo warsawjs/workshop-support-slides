@@ -32,10 +32,8 @@ class: middle, center, slide-card-list
 
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
 <!-- .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak] -->
-
-.card[![](./images/avatars-volunteers/lukasz-basaj.jpeg) Łukasz Basaj]
 .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
-
+.card[![](./images/avatars-volunteers/lukasz-basaj.jpeg) Łukasz Basaj]
 <!-- .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
 <!-- .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
 
@@ -51,9 +49,9 @@ class: middle, center, slide-card-list
 
 .card[![](./images/avatars-trainers/michal-bury.jpg) Michał Bury]
 .card[![](./images/avatars-trainers/robert-kawecki.jpg) Robert Kawecki]
+
 .card[![](./images/avatars-trainers/rafal-sosnowski.png) Rafał Sosnowski]
 .card[![](./images/avatars-trainers/tomasz-budrewicz.jpg) Tomasz Budrewicz]
-
 <!-- .card[![](./images/avatars-trainers/dmytro-maretskyi.JPG) Dmytro Maretskyi] -->
 <!-- .card[![](./images/avatars-trainers/chris-trzesniewski.jpeg) Chris Trześniewski] -->
 <!-- .card[![](./images/avatars-trainers/robert-gurgul.jpg) Robert Gurgul] -->
