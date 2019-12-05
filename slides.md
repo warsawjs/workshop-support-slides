@@ -147,7 +147,8 @@ class: middle, center, slide-middle-images, no-logo
 
 ---
 
-class: middle, center, slide-middle-images, no-logo
+class: middle, center, slide-middle-images, no-logo, slide-card-list,
+
 
 .size50[
 
@@ -155,9 +156,8 @@ class: middle, center, slide-middle-images, no-logo
 
 ]
 
-![](./images/partners/jetbrains.png)
-![](./images/partners/wallaby.svg)
-
+.card[![](./images/partners/jetbrains.png)]
+.card[![](./images/partners/wallaby.svg) WALLABY]
 
 ---
 
