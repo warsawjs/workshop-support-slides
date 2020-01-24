@@ -94,15 +94,17 @@ class: middle, center, slide-card-list
 <!-- .card[![](./images/avatars-trainers/marcin-hagmajer.jpg) Marcin Hagmajer] -->
 <!-- .card[![](./images/avatars-trainers/vivek-patel.jpg) Vivek Patel] -->
 
-<!-- --- -->
+---
 
-<!-- class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
+class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 .size50[
 
-# Trenerzy wspomagający
+# Trener wspomagający
 
-] -->
+]
+
+.card[![](./images/avatars-trainers/illarion-koperski.jpg) Illarion Koperski]
 
 <!-- .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
