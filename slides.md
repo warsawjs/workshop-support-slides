@@ -163,7 +163,7 @@ class: middle, center, slide-middle-images, no-logo, slide-card-list,
 ]
 
 .card[![](./images/partners/jetbrains.png)]
-<!-- .card[![](./images/partners/wallaby.svg) WALLABY] -->
+.card[![](./images/partners/wallaby.svg) WALLABY]
 
 ---
 
