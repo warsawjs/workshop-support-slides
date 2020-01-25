@@ -169,7 +169,6 @@ class: middle, center, slide-middle-images, no-logo, slide-card-list,
 
 ---
 
-exclude: true
 class: middle, center, slide-middle-images, no-logo
 
 .size50[
@@ -178,8 +177,7 @@ class: middle, center, slide-middle-images, no-logo
 
 ]
 
-![](./images/partners/campus-warsaw.jpg)
-![](./images/partners/google-for-startups.png)
+![](./images/partners/hubhub.jpg)
 
 ---
 
