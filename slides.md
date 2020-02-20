@@ -71,6 +71,8 @@ class: middle, center, slide-card-list
 <!-- .card[![](./images/avatars-trainers/jacek-mikrut.jpg) Jacek Mikrut] -->
 <!-- .card[![](./images/avatars-hosts/piotr-kowalski.jpg) Piotr Kowalski] -->
 <!-- .card[![](./images/avatars-trainers/piotr-szlachciak.jpg) Piotr Szlachciak] -->
+<!-- .card[![](./images/avatars-trainers/michal-bury.jpg) Michał Bury] -->
+<!-- .card[![](./images/avatars-trainers/robert-kawecki.jpg) Robert Kawecki] -->
 <!-- .card[![](./images/avatars-trainers/kamil-grabek.jpg) Kamil Grabek] -->
 <!-- .card[![](./images/avatars-trainers/lukasz-borawski.jpg) Łukasz Borawski] -->
 <!-- .card[![](./images/avatars-trainers/jakub-skalecki.jpg) Jakub Skałecki] -->
@@ -113,7 +115,6 @@ class: middle, center, slide-card-list, no-display-twitter-handle, no-logo
 
 <!-- .card[![](./images/avatars-volunteers/lukasz-basaj.jpeg) Łukasz Basaj] -->
 <!-- .card[![](./images/logo/logo-transparent-200x200.png)] -->
-
 <!-- .card[![](./images/avatars-trainers/genia-kai.jpg) Genia Kai] -->
 <!-- .card[![](./images/avatars-trainers/piotr-szlachciak.jpg) Piotr Szlachciak] -->
 <!-- .card[![](./images/avatars-trainers/piotr-slawinski.jpg) Piotr Sławiński] -->
@@ -300,7 +301,6 @@ class: middle
 ## 3. Weź udział w losowaniu upominku! &#x1F455;
 
 ---
-
 
 
 class: middle
