@@ -305,7 +305,6 @@ class: middle
 ---
 
 
-
 class: middle
 
 # Newsletter 💌
