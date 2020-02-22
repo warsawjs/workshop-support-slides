@@ -155,6 +155,20 @@ class: middle, center, slide-middle-images
 
 ---
 
+class: middle, right, no-logo, invert-colors, no-display-twitter-handle
+background-image: url(images/masterclass/Baner_Temat.png)
+background-size: contain
+
+.right-apla[
+
+.size70.background-white[Zniżka <var>30%</var>]
+
+.size40.background-white[Kod: `workshop-41`]
+
+]
+
+---
+
 class: middle, center, slide-middle-images, slide-card-list,
 
 .size50[
@@ -272,19 +286,6 @@ class: middle, center
 # Poznajmy się &#x1F600;
 
 ]
-
----
-
-exclude: true
-class: middle, center, slide-card-list
-
-### **WarsawJS** w mediach społecznościowych
-
-.card[![](./images/social/meetup.png) [meetup.com](http://meetup.com/warsawjs)]
-.card[![](./images/social/twitter.png) [twitter.com](http://twitter.com/warsawjs)]
-
-.card[![](./images/social/facebook.png) [facebook.com](http://facebook.com/warsawjs)]
-.card[![](./images/social/youtube.png) [youtube.com](http://youtube.com/warsawjs)]
 
 ---
 
