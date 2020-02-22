@@ -6,3 +6,4 @@
     width="300"
 />
 
+<!-- Fullscreen background: 1210 x 681 -->

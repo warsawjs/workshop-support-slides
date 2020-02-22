@@ -1,14 +1,11 @@
-class: middle, slide-front-page
+class: middle, center, slide-invert-colors
 
-.size130[
-
-# WarsawJS Workshop #<span class="ordometer js-workshop-number">???</span>
-
-]
+.box.left.size100.bold[WarsawJS<br/>Workshop #<span class="ordometer js-workshop-number">???</span>]
+.box.right[![](images/logo/logo-black-transparent-200x200.png)]
 
 ---
 
-class: middle, center, slide-card-list, slide-card-list-rounded
+class: middle, center, slide-card-list
 
 .size50[
 
@@ -22,7 +19,7 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ---
 
-class: middle, center, slide-card-list
+class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
@@ -42,7 +39,7 @@ class: middle, center, slide-card-list
 
 ---
 
-class: middle, center, slide-card-list
+class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
@@ -101,7 +98,7 @@ class: middle, center, slide-card-list
 
 ---
 
-class: middle, center, slide-card-list, no-display-twitter-handle
+class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
@@ -138,7 +135,7 @@ class: middle, center, slide-card-list, no-display-twitter-handle
 
 <!-- ---
 
-class: middle, center, slide-middle-images, no-logo
+class: middle, center, slide-middle-images
 
 .size50[
 
@@ -158,8 +155,7 @@ class: middle, center, slide-middle-images, no-logo
 
 ---
 
-class: middle, center, slide-middle-images, no-logo, slide-card-list,
-
+class: middle, center, slide-middle-images, slide-card-list,
 
 .size50[
 
@@ -172,7 +168,7 @@ class: middle, center, slide-middle-images, no-logo, slide-card-list,
 
 ---
 
-class: middle, center, slide-middle-images, no-logo
+class: middle, center, slide-middle-images
 
 .size50[
 
@@ -208,7 +204,7 @@ class: middle, center
 
 ---
 
-class: middle, center, no-logo
+class: middle, center
 
 # Slack
 
@@ -411,14 +407,14 @@ class: middle
 
 ---
 
-class: top, center, no-logo
+class: top, center
 background-image: url('images/community.jpg')
 
 # <mark>Wspólne zdjęcie! 📸</mark>
 
 ---
 
-class: middle, center, no-logo
+class: middle, center
 
 .slide-card-list[
 
@@ -426,5 +422,3 @@ class: middle, center, no-logo
 .card[![](images/logo/logo-transparent-200x200.png)]
 
 ]
-
-<!-- Fullscreen background: 1210 x 681 -->
