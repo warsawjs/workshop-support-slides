@@ -386,7 +386,7 @@ class: middle
 
 class: middle
 
-# [4/5] Certyfikaty 🏆
+# [4/5] Podziękowania 🏆
 
 ## ...dla trenerów!
 
