@@ -257,7 +257,7 @@ class: middle, center
 .size40[
 
 * Kodowanie kończymy o **18:00**
-* Ankieta: [bit.ly/warsawjs-workshop-41-ankieta](https://bit.ly/warsawjs-workshop-40-ankieta)
+* Ankieta: [bit.ly/warsawjs-workshop-41-ankieta](https://bit.ly/warsawjs-workshop-41-ankieta)
 * **Zapraszamy na scenę, aby opowiedzieć o dzisiejszym doświadczeniu**
 * &#x2728; Bonus na zakończenie! &#x2728;
 
@@ -352,7 +352,7 @@ class: middle
 
 # [1/5] Ankieta 📑
 
-## [bit.ly/warsawjs-workshop-41-ankieta](https://bit.ly/warsawjs-workshop-40-ankieta)
+## [bit.ly/warsawjs-workshop-41-ankieta](https://bit.ly/warsawjs-workshop-41-ankieta)
 
 * Dziękujemy za wypełnienie ankiet
 * Dzięki nim możemy się rozwijać
