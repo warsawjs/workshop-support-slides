@@ -111,6 +111,7 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .card[![](./images/avatars-trainers/kuba-strebeyko.jpeg) Kuba Strebeyko]
 .card[![](./images/avatars-volunteers/lukasz-basaj.jpeg) Łukasz Basaj]
+.card[![](./images/avatars-trainers/piotr-slawinski.jpg) Piotr Sławiński]
 
 <!-- .card[![](./images/avatars-trainers/illarion-koperski.jpg) Illarion Koperski] -->
 <!-- .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora] -->
@@ -118,7 +119,6 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 <!-- .card[![](./images/logo/logo-transparent-200x200.png)] -->
 <!-- .card[![](./images/avatars-trainers/genia-kai.jpg) Genia Kai] -->
 <!-- .card[![](./images/avatars-trainers/piotr-szlachciak.jpg) Piotr Szlachciak] -->
-<!-- .card[![](./images/avatars-trainers/piotr-slawinski.jpg) Piotr Sławiński] -->
 <!-- .card[![](./images/avatars-trainers/nataliya-pasichnyk.jpg) Nataliya Pasichnyk] -->
 <!-- .card[![](./images/avatars-trainers/bartek-legiec.jpeg) Bartosz Legięć] -->
 <!-- .card[![](./images/avatars-trainers/lukasz-basaj.jpg) Łukasz Basaj] -->
@@ -164,7 +164,7 @@ class: middle, center, slide-middle-images, slide-card-list,
 ]
 
 .card[![](./images/partners/jetbrains.png)]
-.card[![](./images/partners/wallaby.svg) WALLABY]
+.card[![](./images/partners/wallaby.svg) Wallaby.js]
 
 ---
 
