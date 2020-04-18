@@ -5,6 +5,16 @@ class: middle, center, slide-invert-colors
 
 ---
 
+class: middle, center, slide-middle-images
+
+.size50[
+
+# Do you speak Polish?
+
+]
+
+---
+
 class: middle, center, slide-card-list
 
 .size50[
@@ -29,12 +39,14 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .card[![](./images/avatars-volunteers/lukasz-basaj.jpeg) Łukasz Basaj]
 .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
+.card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Maciej Machniewski]
 
-.card[![](./images/avatars-volunteers/anna-lukianova.jpg) Anna Lukianova]
-.card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova]
+.card[![](./images/avatars-trainers/anna-ambroziak.jpeg) Anna Ambroziak]
 
 .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
-.card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk]
+<!-- .card[![](./images/avatars-volunteers/tatiana-platonova.jpg) Tatiana Platonova] -->
+<!-- .card[![](./images/avatars-volunteers/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
+<!-- .card[![](./images/avatars-volunteers/anna-lukianova.jpg) Anna Lukianova] -->
 <!-- .card[![](./images/avatars-volunteers/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
 
 ---
@@ -106,12 +118,12 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-.card[![](./images/avatars-trainers/anna-ambroziak.jpeg) Anna Ambroziak]
 .card[![](./images/avatars-volunteers/lukasz-basaj.jpeg) Łukasz Basaj]
 
 .card[![](./images/avatars-trainers/piotr-slawinski.jpg) Piotr Sławiński]
 .card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 
+<!-- .card[![](./images/avatars-trainers/anna-ambroziak.jpeg) Anna Ambroziak] -->
 <!-- .card[![](./images/avatars-trainers/ela-moscicka.jpeg) Ela Mościcka] -->
 <!-- .card[![](./images/avatars-trainers/kuba-strebeyko.jpeg) Kuba Strebeyko] -->
 <!-- .card[![](./images/avatars-trainers/illarion-koperski.jpg) Illarion Koperski] -->
