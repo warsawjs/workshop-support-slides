@@ -117,10 +117,10 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 ]
 
 .card[![](./images/avatars-volunteers/lukasz-basaj.jpeg) Łukasz Basaj]
-.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
-
 .card[![](./images/avatars-volunteers/miroslaw-stasiak.jpg) Mirosław Stasiak]
+
 .card[![](./images/avatars-trainers/anna-ambroziak.jpeg) Anna Ambroziak]
+.card[![](./images/avatars-volunteers/natalia-kedziora.jpeg) Natalia Kędziora]
 
 <!-- .card[![](./images/avatars-trainers/piotr-slawinski.jpg) Piotr Sławiński] -->
 <!-- .card[![](./images/avatars-trainers/ela-moscicka.jpeg) Ela Mościcka] -->
