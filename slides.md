@@ -249,7 +249,7 @@ class: middle, center
 
 .size40[
 
-* Kodowanie kończymy o **13:00**
+* Kodowanie kończymy o **14:25**
 * Ankieta: [bit.ly/warsawjs-workshop-44-ankieta](https://bit.ly/warsawjs-workshop-44-ankieta)
 * **Zapraszamy na ekran, aby opowiedzieć o dzisiejszym doświadczeniu**
 * &#x2728; Bonus na zakończenie! &#x2728;
@@ -324,7 +324,7 @@ class: middle, center
 
 class: middle, center
 
-# Koniec &#x23F0; o <mark>13:00</mark>
+# Koniec &#x23F0; o <mark>14:45</mark>
 
 ---
 
