@@ -6,4 +6,8 @@
     width="300"
 />
 
+to serve the project locally use
+
+`python -m SimpleHTTPServer 8000`
+
 <!-- Fullscreen background: 1210 x 681 -->
