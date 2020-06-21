@@ -169,7 +169,7 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 class: middle, center, slide-middle-images, slide-card-list,
 
-.size50[
+.size40[
 
 # Sponsors
 
