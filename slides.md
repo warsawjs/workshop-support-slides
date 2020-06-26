@@ -9,37 +9,21 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
-# Organizers and Volunteers 1/2
+# Organizers and Volunteers 
 
 ]
 
 .card[![](./images/avatars/lukasz-basaj.jpeg) Łukasz Basaj]
 .card[![](./images/avatars/tatiana-platonova.jpg) Tatiana Platonova]
-
 .card[![](./images/avatars/miroslaw-stasiak.jpg) Mirosław Stasiak]
+
 .card[![](./images/avatars/anna-lukianova.jpg) Anna Lukianova]
-
-<!-- .card[![](./images/avatars/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
-<!-- .card[![](./images/avatars/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-
----
-
-class: middle, center, slide-card-list, slide-card-list-rounded
-
-.size50[
-
-# Organizers and Volunteers 2/2
-
-]
-
 .card[![](./images/avatars/ania-dlawichowska.jpg) Anna Dławichowska]
 .card[![](./images/avatars/maciej-machniewski.jpg) Maciej Machniewski]
 
-.card[![](./images/avatars/anna-ambroziak.jpeg) Anna Ambroziak]
-.card[![](./images/avatars/natalia-kedziora.jpeg) Natalia Kędziora]
-
 <!-- .card[![](./images/avatars/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
 <!-- .card[![](./images/avatars/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
+
 
 ---
 
