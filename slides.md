@@ -9,20 +9,20 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
-# Organizers and Volunteers 
+# Organizing Team 
 
 ]
 
-.card[![](./images/avatars/lukasz-basaj.jpeg) Łukasz Basaj]
-.card[![](./images/avatars/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](./images/avatars/miroslaw-stasiak.jpg) Mirosław Stasiak]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tatiana-platonova.jpg) Tatiana Platonova]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/miroslaw-stasiak.jpg) Mirosław Stasiak]
 
-.card[![](./images/avatars/anna-lukianova.jpg) Anna Lukianova]
-.card[![](./images/avatars/ania-dlawichowska.jpg) Anna Dławichowska]
-.card[![](./images/avatars/maciej-machniewski.jpg) Maciej Machniewski]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-lukianova.jpg) Anna Lukianova]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/ania-dlawichowska.jpg) Anna Dławichowska]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/maciej-machniewski.jpg) Maciej Machniewski]
 
-<!-- .card[![](./images/avatars/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
-<!-- .card[![](./images/avatars/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kinga-wigurska-bak.jpg) Kinga Wigurska-Bąk] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
 
 
 ---
@@ -31,60 +31,60 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
-# 👨‍🏫 Trainers and Volunteers 👨‍🏫
+# 👨‍🏫 Trainers 👨‍🏫
 
 ]
 
 
-.card[![](./images/avatars/daniel-karski.jpeg) Daniel Karski]
-.card[![](./images/avatars/marcin-hagmajer.jpg) Marcin Hagmajer]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/daniel-karski.jpeg) Daniel Karski]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/marcin-hagmajer.jpg) Marcin Hagmajer]
 
-.card[![](./images/avatars/kamil-grabek.jpg) Kamil Grabek]
-.card[![](./images/avatars/piotr-szlachciak.jpg) Piotr Szlachciak]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kamil-grabek.jpg) Kamil Grabek]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-szlachciak.jpg) Piotr Szlachciak]
 
-<!-- .card[![](./images/avatars/michal-bury.jpg) Michał Bury] -->
-<!-- .card[![](./images/avatars/piotr-kowalski.jpg) Piotr Kowalski] -->
-<!-- .card[![](./images/avatars/andriy-mykulyak.jpg) Andriy Mykulyak] -->
-<!-- .card[![](./images/avatars/kuba-strebeyko.jpeg) Kuba Strebeyko] -->
-<!-- .card[![](./images/avatars/krzysztof-lokaj.jpg) Krzysztof Łokaj] -->
-<!-- .card[![](./images/avatars/ivan-rukhavets.png) Ivan Rukhavets] -->
-<!-- .card[![](./images/avatars/michal-zalecki.png) Michał Załęcki] -->
-<!-- .card[![](./images/avatars/sijawusz-pur-rahnama.jpg) Sijawusz Pur Rahnama] -->
-<!-- .card[![](./images/avatars/piotr-zientara.jpg) Piotr Zientara] -->
-<!-- .card[![](./images/avatars/robert-kawecki.jpg) Robert Kawecki] -->
-<!-- .card[![](./images/avatars/rafal-sosnowski.png) Rafał Sosnowski] -->
-<!-- .card[![](./images/avatars/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-<!-- .card[![](./images/avatars/dmytro-maretskyi.JPG) Dmytro Maretskyi] -->
-<!-- .card[![](./images/avatars/chris-trzesniewski.jpeg) Chris Trześniewski] -->
-<!-- .card[![](./images/avatars/robert-gurgul.jpg) Robert Gurgul] -->
-<!-- .card[![](./images/avatars/rafal-pocztarski.jpg) Rafał Pocztarski] -->
-<!-- .card[![](./images/avatars/przemek-strucinski.jpg) Przemysław Struciński] -->
-<!-- .card[![](./images/avatars/lukasz-basaj.jpg) Łukasz Basaj] -->
-<!-- .card[![](./images/avatars/bartek-legiec.jpeg) Bartosz Legięć] -->
-<!-- .card[![](./images/avatars/jacek-mikrut.jpg) Jacek Mikrut] -->
-<!-- .card[![](./images/avatars/piotr-kowalski.jpg) Piotr Kowalski] -->
-<!-- .card[![](./images/avatars/piotr-szlachciak.jpg) Piotr Szlachciak] -->
-<!-- .card[![](./images/avatars/lukasz-borawski.jpg) Łukasz Borawski] -->
-<!-- .card[![](./images/avatars/jakub-skalecki.jpg) Jakub Skałecki] -->
-<!-- .card[![](./images/avatars/michal-szklarski.jpg) Michał Szklarski] -->
-<!-- .card[![](./images/avatars/pawel-mysior.jpg) Paweł Mysior] -->
-<!-- .card[![](./images/avatars/tatiana-platonova.jpg) Tatiana Platonova] -->
-<!-- .card[![](./images/avatars/piotr-zientara.jpg) Piotr Zientara] -->
-<!-- .card[![](./images/avatars/daniel-siwek.jpg) Daniel Siwek] -->
-<!-- .card[![](./images/avatars/rafal-pocztarski.jpg) Rafał Pocztarski] -->
-<!-- .card[![](./images/avatars/lukasz-godziejewski.jpg) Łukasz Godziejewski] -->
-<!-- .card[![](./images/avatars/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-<!-- .card[![](./images/avatars/piotr-koszulinski.jpg) Piotrek Koszuliński] -->
-<!-- .card[![](./images/avatars/krzysztof-syrytczyk.jpg) Krzysztof Syrytczyk] -->
-<!-- .card[![](./images/avatars/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk] -->
-<!-- .card[![](./images/avatars/anna-guz.jpg) Anna Guz] -->
-<!-- .card[![](./images/avatars/mateusz-chrzonstowski.jpg) Mateusz Chrzonstowski] -->
-<!-- .card[![](./images/avatars/marek-kirejczyk.jpg) Marek Kirejczyk] -->
-<!-- .card[![](./images/avatars/bartlomiej-rutkowski.jpg) Bartłomiej Rutkowski] -->
-<!-- .card[![](./images/avatars/justyna-broniszewska.jpg) Justyna Broniszewska] -->
-<!-- .card[![](./images/avatars/kamil-gajowy.jpg) Kamil Gajowy] -->
-<!-- .card[![](./images/avatars/wojtek-przechodzen.jpeg) Wojtek Przechodzeń] -->
-<!-- .card[![](./images/avatars/vivek-patel.jpg) Vivek Patel] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-bury.jpg) Michał Bury] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-kowalski.jpg) Piotr Kowalski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/andriy-mykulyak.jpg) Andriy Mykulyak] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/krzysztof-lokaj.jpg) Krzysztof Łokaj] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/ivan-rukhavets.png) Ivan Rukhavets] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-zalecki.png) Michał Załęcki] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/sijawusz-pur-rahnama.jpg) Sijawusz Pur Rahnama] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-zientara.jpg) Piotr Zientara] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/robert-kawecki.jpg) Robert Kawecki] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/rafal-sosnowski.png) Rafał Sosnowski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/dmytro-maretskyi.JPG) Dmytro Maretskyi] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/chris-trzesniewski.jpeg) Chris Trześniewski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/robert-gurgul.jpg) Robert Gurgul] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/rafal-pocztarski.jpg) Rafał Pocztarski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/przemek-strucinski.jpg) Przemysław Struciński] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpg) Łukasz Basaj] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/bartek-legiec.jpeg) Bartosz Legięć] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jacek-mikrut.jpg) Jacek Mikrut] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-kowalski.jpg) Piotr Kowalski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-szlachciak.jpg) Piotr Szlachciak] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-borawski.jpg) Łukasz Borawski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jakub-skalecki.jpg) Jakub Skałecki] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-szklarski.jpg) Michał Szklarski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/pawel-mysior.jpg) Paweł Mysior] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tatiana-platonova.jpg) Tatiana Platonova] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-zientara.jpg) Piotr Zientara] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/daniel-siwek.jpg) Daniel Siwek] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/rafal-pocztarski.jpg) Rafał Pocztarski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-godziejewski.jpg) Łukasz Godziejewski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-koszulinski.jpg) Piotrek Koszuliński] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/krzysztof-syrytczyk.jpg) Krzysztof Syrytczyk] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-guz.jpg) Anna Guz] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/mateusz-chrzonstowski.jpg) Mateusz Chrzonstowski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/marek-kirejczyk.jpg) Marek Kirejczyk] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/bartlomiej-rutkowski.jpg) Bartłomiej Rutkowski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/justyna-broniszewska.jpg) Justyna Broniszewska] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kamil-gajowy.jpg) Kamil Gajowy] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/wojtek-przechodzen.jpeg) Wojtek Przechodzeń] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/vivek-patel.jpg) Vivek Patel] -->
 
 ---
 
@@ -96,58 +96,58 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-.card[![](./images/avatars/lukasz-basaj.jpg) Łukasz Basaj]
-.card[![](./images/avatars/miroslaw-stasiak.jpg) Mirosław Stasiak]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpg) Łukasz Basaj]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/miroslaw-stasiak.jpg) Mirosław Stasiak]
 
-.card[![](./images/avatars/kuba-strebeyko.jpeg) Kuba Strebeyko]
-.card[![](./images/avatars/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk]
 
-<!-- .card[![](./images/avatars/daniel-karski.jpeg) Daniel Karski] -->
-<!-- .card[![](./images/avatars/marcin-hagmajer.jpg) Marcin Hagmajer] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/daniel-karski.jpeg) Daniel Karski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/marcin-hagmajer.jpg) Marcin Hagmajer] -->
 
-<!-- .card[![](./images/avatars/kamil-grabek.jpg) Kamil Grabek] -->
-<!-- .card[![](./images/avatars/piotr-szlachciak.jpg) Piotr Szlachciak] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kamil-grabek.jpg) Kamil Grabek] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-szlachciak.jpg) Piotr Szlachciak] -->
 
-<!-- .card[![](./images/avatars/michal-bury.jpg) Michał Bury] -->
-<!-- .card[![](./images/avatars/piotr-kowalski.jpg) Piotr Kowalski] -->
-<!-- .card[![](./images/avatars/andriy-mykulyak.jpg) Andriy Mykulyak] -->
-<!-- .card[![](./images/avatars/krzysztof-lokaj.jpg) Krzysztof Łokaj] -->
-<!-- .card[![](./images/avatars/ivan-rukhavets.png) Ivan Rukhavets] -->
-<!-- .card[![](./images/avatars/michal-zalecki.png) Michał Załęcki] -->
-<!-- .card[![](./images/avatars/sijawusz-pur-rahnama.jpg) Sijawusz Pur Rahnama] -->
-<!-- .card[![](./images/avatars/piotr-zientara.jpg) Piotr Zientara] -->
-<!-- .card[![](./images/avatars/robert-kawecki.jpg) Robert Kawecki] -->
-<!-- .card[![](./images/avatars/rafal-sosnowski.png) Rafał Sosnowski] -->
-<!-- .card[![](./images/avatars/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-<!-- .card[![](./images/avatars/dmytro-maretskyi.JPG) Dmytro Maretskyi] -->
-<!-- .card[![](./images/avatars/chris-trzesniewski.jpeg) Chris Trześniewski] -->
-<!-- .card[![](./images/avatars/robert-gurgul.jpg) Robert Gurgul] -->
-<!-- .card[![](./images/avatars/rafal-pocztarski.jpg) Rafał Pocztarski] -->
-<!-- .card[![](./images/avatars/przemek-strucinski.jpg) Przemysław Struciński] -->
-<!-- .card[![](./images/avatars/bartek-legiec.jpeg) Bartosz Legięć] -->
-<!-- .card[![](./images/avatars/jacek-mikrut.jpg) Jacek Mikrut] -->
-<!-- .card[![](./images/avatars/piotr-kowalski.jpg) Piotr Kowalski] -->
-<!-- .card[![](./images/avatars/piotr-szlachciak.jpg) Piotr Szlachciak] -->
-<!-- .card[![](./images/avatars/lukasz-borawski.jpg) Łukasz Borawski] -->
-<!-- .card[![](./images/avatars/jakub-skalecki.jpg) Jakub Skałecki] -->
-<!-- .card[![](./images/avatars/michal-szklarski.jpg) Michał Szklarski] -->
-<!-- .card[![](./images/avatars/pawel-mysior.jpg) Paweł Mysior] -->
-<!-- .card[![](./images/avatars/tatiana-platonova.jpg) Tatiana Platonova] -->
-<!-- .card[![](./images/avatars/piotr-zientara.jpg) Piotr Zientara] -->
-<!-- .card[![](./images/avatars/daniel-siwek.jpg) Daniel Siwek] -->
-<!-- .card[![](./images/avatars/rafal-pocztarski.jpg) Rafał Pocztarski] -->
-<!-- .card[![](./images/avatars/lukasz-godziejewski.jpg) Łukasz Godziejewski] -->
-<!-- .card[![](./images/avatars/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-<!-- .card[![](./images/avatars/piotr-koszulinski.jpg) Piotrek Koszuliński] -->
-<!-- .card[![](./images/avatars/krzysztof-syrytczyk.jpg) Krzysztof Syrytczyk] -->
-<!-- .card[![](./images/avatars/anna-guz.jpg) Anna Guz] -->
-<!-- .card[![](./images/avatars/mateusz-chrzonstowski.jpg) Mateusz Chrzonstowski] -->
-<!-- .card[![](./images/avatars/marek-kirejczyk.jpg) Marek Kirejczyk] -->
-<!-- .card[![](./images/avatars/bartlomiej-rutkowski.jpg) Bartłomiej Rutkowski] -->
-<!-- .card[![](./images/avatars/justyna-broniszewska.jpg) Justyna Broniszewska] -->
-<!-- .card[![](./images/avatars/kamil-gajowy.jpg) Kamil Gajowy] -->
-<!-- .card[![](./images/avatars/wojtek-przechodzen.jpeg) Wojtek Przechodzeń] -->
-<!-- .card[![](./images/avatars/vivek-patel.jpg) Vivek Patel] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-bury.jpg) Michał Bury] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-kowalski.jpg) Piotr Kowalski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/andriy-mykulyak.jpg) Andriy Mykulyak] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/krzysztof-lokaj.jpg) Krzysztof Łokaj] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/ivan-rukhavets.png) Ivan Rukhavets] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-zalecki.png) Michał Załęcki] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/sijawusz-pur-rahnama.jpg) Sijawusz Pur Rahnama] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-zientara.jpg) Piotr Zientara] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/robert-kawecki.jpg) Robert Kawecki] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/rafal-sosnowski.png) Rafał Sosnowski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/dmytro-maretskyi.JPG) Dmytro Maretskyi] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/chris-trzesniewski.jpeg) Chris Trześniewski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/robert-gurgul.jpg) Robert Gurgul] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/rafal-pocztarski.jpg) Rafał Pocztarski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/przemek-strucinski.jpg) Przemysław Struciński] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/bartek-legiec.jpeg) Bartosz Legięć] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jacek-mikrut.jpg) Jacek Mikrut] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-kowalski.jpg) Piotr Kowalski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-szlachciak.jpg) Piotr Szlachciak] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-borawski.jpg) Łukasz Borawski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jakub-skalecki.jpg) Jakub Skałecki] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-szklarski.jpg) Michał Szklarski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/pawel-mysior.jpg) Paweł Mysior] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tatiana-platonova.jpg) Tatiana Platonova] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-zientara.jpg) Piotr Zientara] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/daniel-siwek.jpg) Daniel Siwek] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/rafal-pocztarski.jpg) Rafał Pocztarski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-godziejewski.jpg) Łukasz Godziejewski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-koszulinski.jpg) Piotrek Koszuliński] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/krzysztof-syrytczyk.jpg) Krzysztof Syrytczyk] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-guz.jpg) Anna Guz] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/mateusz-chrzonstowski.jpg) Mateusz Chrzonstowski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/marek-kirejczyk.jpg) Marek Kirejczyk] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/bartlomiej-rutkowski.jpg) Bartłomiej Rutkowski] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/justyna-broniszewska.jpg) Justyna Broniszewska] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kamil-gajowy.jpg) Kamil Gajowy] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/wojtek-przechodzen.jpeg) Wojtek Przechodzeń] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/vivek-patel.jpg) Vivek Patel] -->
 
 ---
 
