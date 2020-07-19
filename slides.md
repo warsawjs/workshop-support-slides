@@ -160,7 +160,7 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 ]
 
-.card[![](./images/sponsors/logo-softwarely.png)]
+.card[![](./images/sponsors/logo-softwarely.jpg)]
 .card[![](./images/sponsors/logo-ethworks.png)]
 
 <!-- .card[![](./images/partners/wallaby.svg) Wallaby.js] -->
@@ -206,15 +206,39 @@ class: middle, center, slide-middle-images
 
 ---
 
+class: middle, center, slide-middle-images, slide-card-list,
+
+.size50[
+
+# Video Conferencing Platform
+
+]
+
+.card[![](./images/partners/jitsi-logo-blue.png)]
+<!-- .card[![](./images/partners/wallaby.svg) Wallaby.js] -->
+
+<!-- ---
+
+class: middle, center, slide-middle-images
+
+.size50[
+
+# Thank you!
+
+]
+
+![](./images/partners/hubhub.jpg) -->
+
+
+---
+
 .size50[
 
 # Agenda 📋
 
 ]
 
-9:45 - Opening
-
-10:00 - Session I
+10:00 - Opening & Session I
 
 11:00 - Session II
 
@@ -228,12 +252,12 @@ class: middle, center, slide-middle-images
 
 14:30 - Closing
 
----
+<!-- --- -->
 
 
-.size50[
+<!-- .size50[
 
-# Rules 📋
+# Good practices for  📋
 
 ]
 
@@ -245,7 +269,7 @@ class: middle, center, slide-middle-images
 
 * 25 minuts for practice
 
-* 10 minuts for summary and short break
+* 10 minuts for summary and short break -->
 
 
 <!-- --- -->
@@ -381,7 +405,7 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 ]
 
-.card[![](./images/sponsors/logo-softwarely.png)]
+.card[![](./images/sponsors/logo-softwarely.jpg)]
 .card[![](./images/sponsors/logo-ethworks.png)]
 
 ---
@@ -405,9 +429,9 @@ class: middle, center
 
 # ⭐️ Next Workshop ⭐️
 
-## Functional Programming
-### WarsawJS Workshop #46
-#### Sunday, July 19, 2020
+## React.js
+### WarsawJS Workshop #47
+#### Sunday, August 23, 2020
 
 ---
 
