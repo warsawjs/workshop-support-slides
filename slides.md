@@ -435,15 +435,6 @@ class: middle, center
 
 ---
 
-class: middle, center
-
-# Let's go!
-
-<!-- Zapraszamy mentora na scenę 👨🏼‍🏫 -->
-👩‍💻 • 👨‍💻
-
----
-
 
 class: middle, center
 
