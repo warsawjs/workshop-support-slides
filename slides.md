@@ -160,7 +160,7 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 ]
 
-.card[![](./images/sponsors/logo-softwarely-250x150.jpg)]
+.card[![](./images/sponsors/logo-softwarely.png)]
 .card[![](./images/sponsors/logo-ethworks.png)]
 
 <!-- .card[![](./images/partners/wallaby.svg) Wallaby.js] -->
@@ -381,7 +381,7 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 ]
 
-.card[![](./images/sponsors/logo-softwarely-250x150.jpg)]
+.card[![](./images/sponsors/logo-softwarely.png)]
 .card[![](./images/sponsors/logo-ethworks.png)]
 
 ---
