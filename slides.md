@@ -9,19 +9,36 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
-# Organizing Team 
+# Organizing Team 1/2
 
 ]
 
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tatiana-platonova.jpg) Tatiana Platonova]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/miroslaw-stasiak.jpg) Mirosław Stasiak]
 
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-lukianova.jpg) Anna Lukianova]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/ania-dlawichowska.jpg) Anna Dławichowska]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/natalia-kedziora.jpg) Natalia Kędziora]
 
+
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
+
+
+---
+
+class: middle, center, slide-card-list, slide-card-list-rounded
+
+.size50[
+
+# Organizing Team 2/2
+
+]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/ania-dlawichowska.jpg) Anna Dławichowska]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/miroslaw-stasiak.jpg) Mirosław Stasiak]
+
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/maciej-machniewski.jpg) Maciej Machniewski]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-zientara.jpg) Piotr Zientara]
+
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
 
