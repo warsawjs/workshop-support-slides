@@ -451,7 +451,7 @@ class: middle, center
 
 ## Unit Testing
 ### WarsawJS Workshop #50
-#### Sunday, October 18, 2020
+#### Sunday, November 22, 2020
 
 ---
 
