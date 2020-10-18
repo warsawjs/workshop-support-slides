@@ -185,7 +185,7 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 .size40[
 
-# Sponsors
+# Sponsors & Partners
 
 ]
 
@@ -193,6 +193,7 @@ class: middle, center, slide-middle-images, slide-card-list,
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-packhelp.png)]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-fresha.png)]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-prisma.png)]
+.card[![](./images/partners/jetbrains.png)]
 
 <!-- .card[![](images/logo/logo-transparent-200x200.png)] -->
 <!-- .card[![](./images/sponsors/logo-softwarely.jpg)] -->
@@ -223,7 +224,6 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 ]
 
-.card[![](./images/partners/jetbrains.png)]
 <!-- .card[![](./images/partners/wallaby.svg) Wallaby.js] -->
 
 <!-- ---
