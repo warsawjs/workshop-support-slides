@@ -13,26 +13,6 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławnski]
-
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/konrad-dziekonski.jpg) Konrad Dziekoński]
-
-
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-
-
----
-
-class: middle, center, slide-card-list, slide-card-list-rounded
-
-.size50[
-
-# Organizing Team
-
-]
-
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-zientara.jpg) Piotr Zientara]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/ania-dlawichowska.jpg) Anna Dławichowska]
 
@@ -49,15 +29,35 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
+# Organizing Team 2/2
+
+]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/konrad-dziekonski.jpg) Konrad Dziekoński]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/agnieszka-rudnicka.jpg) Agnieszka Rudnicka]
+
+
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
+
+
+---
+
+class: middle, center, slide-card-list, slide-card-list-rounded
+
+.size50[
+
 # 👨‍🏫 Trainers 👨‍🏫
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-borawski.jpg) Łukasz Borawski]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jakub-skalecki.jpg) Jakub Skałecki]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-bury.jpg) Michał Bury]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/wojciech-przechodzen.jpg) Wojciech Przechodzeń]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jan-horubala.jpg) Jan Horubała]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/robert-kawecki.jpg) Robert Kawecki]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jakub-janczyk.jpg) Jakub Janczyk]
 
 
 
@@ -123,13 +123,14 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/agnieszka-rudnicka.jpg) Agnieszka Rudnicka]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławnski]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk]
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpg) Łukasz Basaj] -->
 
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/natalia-kedziora.jpg) Natalia Kędziora]
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/natalia-kedziora.jpg) Natalia Kędziora] -->
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko] -->
+
 
 <!--.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/miroslaw-stasiak.jpg) Mirosław Stasiak]-->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/daniel-karski.jpeg) Daniel Karski] -->
@@ -214,15 +215,15 @@ class: middle, center, slide-middle-images
 ![](./images/partners/hubhub.jpg) -->
 
 
----
+<!-- --- -->
 
-class: middle, center, slide-middle-images, slide-card-list,
+<!-- class: middle, center, slide-middle-images, slide-card-list,
 
 .size50[
 
 # Partners
 
-]
+] -->
 
 <!-- .card[![](./images/partners/wallaby.svg) Wallaby.js] -->
 
@@ -349,7 +350,7 @@ class: middle, center
 
 .size50[
 
-## <mark>warsawjs-workshop-49-*</mark>
+## <mark>warsawjs-workshop-50-*</mark>
 
 ]
 
@@ -360,7 +361,7 @@ class: middle, center
 .size40[
 
 * We finish coding at **2:45 pm**
-* Survey: [bit.ly/warsawjs-workshop-49-ankieta](https://bit.ly/warsawjs-workshop-49-ankieta)
+* Survey: [bit.ly/warsawjs-workshop-50-ankieta](https://bit.ly/warsawjs-workshop-50-ankieta)
 * **Summary Time for each group!**
 
 ]
@@ -401,7 +402,7 @@ class: middle
 
 # [1/4] Ankieta 📑
 
-## [bit.ly/warsawjs-workshop-49-ankieta](https://bit.ly/warsawjs-workshop-49-ankieta)
+## [bit.ly/warsawjs-workshop-50-ankieta](https://bit.ly/warsawjs-workshop-50-ankieta)
 
 * Thank you for filling our surveys
 * Thanks to them we can develop
@@ -449,9 +450,9 @@ class: middle, center
 
 # ⭐️ Next Workshop ⭐️
 
-## Unit Testing
-### WarsawJS Workshop #50
-#### Sunday, November 22, 2020
+## Angular
+### WarsawJS Workshop #51
+#### Sunday, December 13, 2020
 
 ---
 
