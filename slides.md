@@ -35,8 +35,8 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławiński]
 
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławiński]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/konrad-dziekonski.jpg) Konrad Dziekoński]
 
 
@@ -53,8 +53,13 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/daniel-karski.jpg) Daniel Karski]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/radek-wojtysiak.jpg) Radek Wojtysiak]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/agnieszka-rudnicka.jpg) Agnieszka Rudnicka]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/marcin-hagmajer.jpg) Marcin Hagmajer]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/patryk-omiotek.jpg) Patryk Omiotek]
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/daniel-karski.jpg) Daniel Karski] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-bury.jpg) Michał Bury] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/wojciech-przechodzen.jpg) Wojciech Przechodzeń] -->
 
@@ -65,7 +70,6 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-zalecki.jpg) Michał Załęcki] -->
 
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/marcin-hagmajer.jpg) Marcin Hagmajer] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-cudzilo.jpg) Tomasz Cudziło]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-szlachciak.jpg) Piotr Szlachciak] -->
 
@@ -122,9 +126,9 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk]
-
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpg) Łukasz Basaj]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kacper-wiszczuk.jpg) Kacper Wiszczuk]
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpg) Łukasz Basaj] -->
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/natalia-kedziora.jpg) Natalia Kędziora] -->
 
@@ -185,13 +189,14 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 .size40[
 
-# Thank you for supporting WarsawJS Workshop #50!
+# Thank you for supporting WarsawJS Workshop #52!
 
 ]
 
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-packhelp.png)]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-fresha.png)]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-allegro.png)]
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-packhelp.png)] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-fresha.png)] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-prisma.png)] -->
 
 <!-- .card[![](images/logo/logo-transparent-200x200.png)] -->
@@ -348,7 +353,7 @@ class: middle, center
 
 .size50[
 
-## <mark>warsawjs-workshop-51-*</mark>
+## <mark>warsawjs-workshop-52-*</mark>
 
 ]
 
@@ -359,7 +364,7 @@ class: middle, center
 .size40[
 
 * We finish coding at **2:45 pm**
-* Survey: [bit.ly/warsawjs-workshop-51-ankieta](https://bit.ly/warsawjs-workshop-51-ankieta)
+* Survey: [bit.ly/warsawjs-workshop-52-ankieta](https://bit.ly/warsawjs-workshop-52-ankieta)
 * **Summary Time for each group!**
 
 ]
@@ -400,7 +405,7 @@ class: middle
 
 # [1/4] Ankieta 📑
 
-## [bit.ly/warsawjs-workshop-51-ankieta](https://bit.ly/warsawjs-workshop-51-ankieta)
+## [bit.ly/warsawjs-workshop-52-ankieta](https://bit.ly/warsawjs-workshop-52-ankieta)
 
 * Thank you for filling our surveys
 * Thanks to them we can develop
@@ -448,9 +453,9 @@ class: middle, center
 
 # ⭐️ Next Workshop ⭐️
 
-## React.js
-### WarsawJS Workshop #52
-#### Sunday, February 21, 2021
+## Vue.js
+### WarsawJS Workshop #53
+#### Sunday, March 21, 2021
 
 ---
 
