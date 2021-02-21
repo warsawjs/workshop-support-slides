@@ -128,7 +128,6 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kacper-wiszczuk.jpg) Kacper Wiszczuk]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/miroslaw-stasiak.jpg) Mirosław Stasiak]
-
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpg) Łukasz Basaj] -->
 
