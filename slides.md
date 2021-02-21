@@ -47,6 +47,8 @@ class: middle, center, slide-middle-images, slide-card-list
 
 ]
 
+## <a href="https://www.youtube.com/watch?v=cBB9-GSmvxU">ConfrontJS 2019 Clean Code</a>
+
 ---
 
 class: middle, center, slide-middle-images, slide-card-list,
