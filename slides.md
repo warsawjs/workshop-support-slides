@@ -9,6 +9,60 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
+# About Tati...
+
+]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tatiana-platonova.jpg) Tatiana Platonova]
+
+
+---
+
+class: middle, center, slide-card-list
+
+.size50[
+
+# Volunteer, Trainer, Speaker and Assistant Organizer
+
+]
+
+.card[![](./images/tati/tati_assistant.png)]
+.card[![](./images/tati/workshops.jpg)]
+
+
+---
+
+class: middle, center, slide-middle-images, slide-card-list
+
+.size50[
+
+# ConfrontJS Speaker and Ethworks Developer
+
+]
+
+.card[![](./images/tati/confrontjs.jpg)]
+.card[![](./images/tati/not_looking_for_jobs.png)]
+
+
+---
+
+class: middle, center, slide-middle-images, slide-card-list,
+
+.size50[
+
+# Video Conferencing Platform
+
+]
+
+.card[![](./images/partners/jitsi-logo-blue.png)]
+
+---
+
+
+class: middle, center, slide-card-list, slide-card-list-rounded
+
+.size50[
+
 # Organizing Team 1/2
 
 ]
