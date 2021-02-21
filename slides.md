@@ -40,9 +40,12 @@ class: middle, center, slide-middle-images, slide-card-list
 
 ]
 
+.size100[
+
 .card[![](./images/tati/confrontjs.jpg)]
 .card[![](./images/tati/not_looking_for_jobs.png)]
 
+]
 
 ---
 
@@ -50,11 +53,11 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 .size50[
 
-# Video Conferencing Platform
+# 👏
 
 ]
 
-.card[![](./images/partners/jitsi-logo-blue.png)]
+.card[![](./images/tati/clap.jpg)]
 
 ---
 
