@@ -361,23 +361,6 @@ class: middle, center
 
 ]
 
----
-
-class: middle, center
-
-# 🏆 Contest 🏆
-
-## JetBrains Raffle for publishing `#warsawjs` tag
-
----
-
-class: middle, center
-
-# Let's go!
-
-<!-- Zapraszamy mentora na scenę 👨🏼‍🏫 -->
-
-👩‍💻 • 👨‍💻
 
 ---
 
