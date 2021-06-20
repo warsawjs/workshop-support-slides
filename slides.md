@@ -54,10 +54,6 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/marcin-hagmajer.jpg) Marcin Hagmajer]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/andriy-mykulyak.jpg) Andriy Mykulyak]
 
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-jablonski.jpg) Michał Jabłoński] -->
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/krzysztof-lokaj.jpg) Krzysztof Łokaj] -->
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/agnieszka-rudnicka.jpg) Agnieszka Rudnicka] -->
-
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/filip-floryan.jpg) Filip Floryan] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jakub-skalecki.jpg) Jakub Skałecki] -->
@@ -104,7 +100,6 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-godziejewski.jpg) Łukasz Godziejewski] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-koszulinski.jpg) Piotrek Koszuliński] -->
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/krzysztof-syrytczyk.jpg) Krzysztof Syrytczyk] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/nataliya-pasichnyk.jpeg) Nataliya Pasichnyk] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-guz.jpg) Anna Guz] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/mateusz-chrzonstowski.jpg) Mateusz Chrzonstowski] -->
@@ -125,10 +120,7 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj] -->
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławiński]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj]
-
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-lukianova.jpg) Anna Lukianova]
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławiński] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kacper-wiszczuk.jpg) Kacper Wiszczuk] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko] -->
