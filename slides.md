@@ -57,6 +57,7 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-jablonski.jpg) Michał Jabłoński] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/krzysztof-lokaj.jpg) Krzysztof Łokaj] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/agnieszka-rudnicka.jpg) Agnieszka Rudnicka] -->
+
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/filip-floryan.jpg) Filip Floryan] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jakub-skalecki.jpg) Jakub Skałecki] -->
@@ -75,6 +76,7 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-szlachciak.jpg) Piotr Szlachciak] -->
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-bury.jpg) Michał Bury] -->
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/andriy-mykulyak.jpg) Andriy Mykulyak] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/ivan-rukhavets.png) Ivan Rukhavets] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-zalecki.png) Michał Załęcki] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/sijawusz-pur-rahnama.jpg) Sijawusz Pur Rahnama] -->
@@ -124,6 +126,8 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 ]
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj] -->
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławiński]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj]
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławiński] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kacper-wiszczuk.jpg) Kacper Wiszczuk] -->
@@ -363,23 +367,6 @@ class: middle, center
 
 ]
 
----
-
-class: middle, center
-
-# 🏆 Contest 🏆
-
-## JetBrains Raffle for publishing `#warsawjs` tag
-
----
-
-class: middle, center
-
-# Let's go!
-
-<!-- Zapraszamy mentora na scenę 👨🏼‍🏫 -->
-
-👩‍💻 • 👨‍💻
 
 ---
 
