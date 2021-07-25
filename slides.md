@@ -268,6 +268,23 @@ class: middle, center, slide-middle-images
 
 ![](./images/partners/hubhub.jpg) -->
 
+
+---
+
+.size50[
+
+# WiFi 🌍
+
+]
+
+## Network: Hubhub Guest
+
+
+
+## Pass: amazingspace
+
+<!-- --- -->
+
 ---
 
 .size50[
