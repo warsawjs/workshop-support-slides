@@ -14,10 +14,10 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 ]
 
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-zientara.jpg) Piotr Zientara]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/ania-dlawichowska.jpg) Anna Dławichowska]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/gabriela-czucha.jpg) Gabriela Czucha]
 
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/luiza-buta.jpg) Luiza Haas]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/maciej-machniewski.jpg) Maciej Machniewski]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/miroslaw-stasiak.jpg) Mirosław Stasiak]
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
 
@@ -31,11 +31,10 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/luiza-buta.jpg) Luiza Haas]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/miroslaw-stasiak.jpg) Mirosław Stasiak]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/gabriela-czucha.jpg) Gabriela Czucha]
-
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławiński]
+
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/paulina-czubak.jpg) Paulina Czubak]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/konrad-dziekonski.jpg) Konrad Dziekoński]
 
@@ -51,8 +50,9 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/marcin-hagmajer.jpg) Marcin Hagmajer]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/andriy-mykulyak.jpg) Andriy Mykulyak]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jaroslaw-kowalczyk.jpg) Jarosław Kowalczyk]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-szlachciak.jpg) Piotr Szlachciak]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-bury.jpg) Michał Bury]
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/michal-jablonski.jpg) Michał Jabłoński] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/krzysztof-lokaj.jpg) Krzysztof Łokaj] -->
@@ -191,8 +191,9 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-xfaang.png)]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-packhelp.png)]
 
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-xfaang.png)] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-renderro.png)] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-packhelp.png)] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-fresha.png)] -->
@@ -347,7 +348,7 @@ class: middle, center
 
 .size50[
 
-## <mark>warsawjs-workshop-55-\*</mark>
+## <mark>warsawjs-workshop-57-\*</mark>
 
 ]
 
@@ -358,7 +359,7 @@ class: middle, center
 .size40[
 
 - We finish coding at **2:45 pm**
-- Survey: [bit.ly/warsawjs-workshop-55-ankieta](https://bit.ly/warsawjs-workshop-55-ankieta)
+- Survey: [bit.ly/warsawjs-workshop-57-ankieta](https://bit.ly/warsawjs-workshop-57-ankieta)
 - **Summary Time for each group!**
 
 ]
@@ -399,7 +400,7 @@ class: middle
 
 # [1/4] Ankieta 📑
 
-## [bit.ly/warsawjs-workshop-55-ankieta](https://bit.ly/warsawjs-workshop-55-ankieta)
+## [bit.ly/warsawjs-workshop-57-ankieta](https://bit.ly/warsawjs-workshop-57-ankieta)
 
 - Thank you for filling our surveys
 - Thanks to them we can develop
@@ -448,9 +449,9 @@ class: middle, center
 
 ## Frontend for everyone
 
-### WarsawJS Workshop #56
+### WarsawJS Workshop #58
 
-#### Sunday, July 18, 2021
+#### Sunday, September 19, 2021
 
 ---
 
