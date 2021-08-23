@@ -9,7 +9,7 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .size50[
 
-# Organizing Team 1/2
+# Organizing Team
 
 ]
 
@@ -23,22 +23,6 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ---
 
-class: middle, center, slide-card-list, slide-card-list-rounded
-
-.size50[
-
-# Organizing Team 2/2
-
-]
-
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/lukasz-basaj.jpeg) Łukasz Basaj]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/gabriela-czucha.jpg) Gabriela Czucha]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/paulina-czubak.jpg) Paulina Czubak]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/konrad-dziekonski.jpg) Konrad Dziekoński]
-
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/tomasz-budrewicz.jpg) Tomasz Budrewicz] -->
-
----
 
 class: middle, center, slide-card-list, slide-card-list-rounded
 
@@ -186,10 +170,12 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-xfaang.png)]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-sumologic.png)]
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-packhelp.png)]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-prisma.png)]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-sumo-logic.png)]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-packhelp.png)]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-xfaang.png)]
+
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-fresha.png)] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-renderro.png)] -->
@@ -434,7 +420,10 @@ background-image: url('images/community.jpg')
 
 # <mark>Photo! 📸</mark>
 
-<!-- ---
+---
+
+
+
 
 class: middle, center
 
