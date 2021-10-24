@@ -33,7 +33,7 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 ]
 
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jacek-mikrut.jpg) Jacek Mikrut]
-.card[![](https://eu.ui-avatars.com/api/?size=457&name=K+Z) Kasia Ziomek-Zdanowicz]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/Kasia-ziomek-zdanowicz.png) Kasia Ziomek-Zdanowicz]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kamil-grabek.jpg) Kamil Grabek]
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jaroslaw-kowalczyk.jpg) Jarosław Kowalczyk] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-szlachciak.jpg) Piotr Szlachciak] -->
