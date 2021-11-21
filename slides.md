@@ -107,9 +107,12 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/dominika-czarniewska.jpg) Dominika Czarniewska]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławiński]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/pawel-kowalewski.jpg) Paweł Kowalewski]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-lukianova.jpg) Anna Lukianova]
+
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jaroslaw-kowalczyk.jpg) Jarosław Kowalczyk] -->
 <!-- .card[![](https://eu.ui-avatars.com/api/?size=457&name=K+M) Klaudia Mrozik] -->
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-lukianova.jpg) Anna Lukianova] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kacper-wiszczuk.jpg) Kacper Wiszczuk] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kuba-strebeyko.jpeg) Kuba Strebeyko] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/miroslaw-stasiak.jpg) Mirosław Stasiak] -->
