@@ -32,9 +32,10 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/andriy-mykulyak.jpg) Andriy Mykulyak]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jacek-mikrut.jpg) Jacek Mikrut]
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/artur-zochniak.jpg) Artur Zochniak]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/kamil-grabek.jpg) Kamil Grabek]
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/andriy-mykulyak.jpg) Andriy Mykulyak] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/Kasia-ziomek-zdanowicz.png) Kasia Ziomek-Zdanowicz] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jaroslaw-kowalczyk.jpg) Jarosław Kowalczyk] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-szlachciak.jpg) Piotr Szlachciak] -->
@@ -105,11 +106,11 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/dominika-czarniewska.jpg) Dominika Czarniewska]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/piotr-slawinski.jpg) Piotr Sławiński]
-
-.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/pawel-kowalewski.jpg) Paweł Kowalewski]
 .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-lukianova.jpg) Anna Lukianova]
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/dominika-czarniewska.jpg) Dominika Czarniewska] -->
+
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/pawel-kowalewski.jpg) Paweł Kowalewski] -->
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jaroslaw-kowalczyk.jpg) Jarosław Kowalczyk] -->
 <!-- .card[![](https://eu.ui-avatars.com/api/?size=457&name=K+M) Klaudia Mrozik] -->
@@ -174,7 +175,7 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 .size40[
 
-# Thank you for supporting WarsawJS Workshop #59!
+# Thank you for supporting WarsawJS Workshop #60!
 
 ]
 
@@ -352,7 +353,7 @@ class: middle, center
 
 .size50[
 
-## <mark>warsawjs-workshop-59-\*</mark>
+## <mark>warsawjs-workshop-60-\*</mark>
 
 ]
 
@@ -363,7 +364,7 @@ class: middle, center
 .size40[
 
 - We finish coding at **2:45 pm**
-- Survey: [bit.ly/warsawjs-workshop-59-ankieta](https://bit.ly/warsawjs-workshop-59-ankieta)
+- Survey: [bit.ly/warsawjs-workshop-60-ankieta](https://bit.ly/warsawjs-workshop-60-ankieta)
 - **Summary Time for each group!**
 
 ]
@@ -387,7 +388,7 @@ class: middle
 
 # [1/4] Ankieta 📑
 
-## [bit.ly/warsawjs-workshop-59-ankieta](https://bit.ly/warsawjs-workshop-59-ankieta)
+## [bit.ly/warsawjs-workshop-60-ankieta](https://bit.ly/warsawjs-workshop-60-ankieta)
 
 - Thank you for filling our surveys
 - Thanks to them we can develop
