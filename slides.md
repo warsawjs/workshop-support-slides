@@ -188,8 +188,9 @@ class: middle, center, slide-middle-images, slide-card-list,
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-prisma.png)] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-sumo-logic.png)] -->
 
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-packhelp.png)] -->
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-xfaang.png)] -->
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-packhelp.png)]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-xfaang.png)]
 
 
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-fresha.png)] -->
@@ -271,7 +272,7 @@ class: middle, center, slide-middle-images
 
 ]
 
-## Network: Ask organizers!
+## Network: PACKHELP_GUEST
 
 
 
