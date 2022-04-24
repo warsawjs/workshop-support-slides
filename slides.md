@@ -425,6 +425,12 @@ class: middle
 
 ---
 
+class: partners, slide-grid, slide-grid-10-columns, slide-blank
+background-image: url(images/radio-IT.png)
+background-size: contain
+
+---
+
 class: middle
 
 # [3/3] Thank you ❤️
