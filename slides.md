@@ -110,6 +110,8 @@ class: middle, center, slide-card-list, slide-card-list-rounded
 
 ]
 
+<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/wenyao.jpg) Wenyao Lin] -->
+
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/anna-lukianova.jpg) Anna Lukianova] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/ania-kurzynska.jpg) Anna Kurzynska] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/people/jacek-rojek.jpg) Jacek Rojek] -->
@@ -420,6 +422,12 @@ class: middle
 - [Twitter](https://twitter.com/hashtag/warsawjs?f=tweets&vertical=default)
 - [Instagram](https://www.instagram.com/explore/tags/warsawjs/)
 - [Facebook](https://www.facebook.com/hashtag/warsawjs) -->
+
+---
+
+class: partners, slide-grid, slide-grid-10-columns, slide-blank
+background-image: url(images/radio-IT.png)
+background-size: contain
 
 ---
 
