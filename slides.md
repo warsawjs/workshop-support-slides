@@ -189,7 +189,10 @@ class: middle, center, slide-middle-images, slide-card-list,
 
 ]
 
-<!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-xfaang.png)] -->
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo_cic_warsaw.png)]
+
+.card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-xfaang.png)]
+
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-ramp-network.png)] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-evolution.png)] -->
 <!-- .card[![](https://s3.eu-central-1.amazonaws.com/www.warsawjs.com/static/images/sponsors/logo-prisma.png)] -->
